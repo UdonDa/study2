@@ -1,0 +1,1 @@
+tr '\t' ' ' < popular-names.txt
